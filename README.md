@@ -20,6 +20,7 @@ A Node.js webapp to manage student and there placements.
 3. Then in Data Services Choose Connect option
 4. Then click on Drivers
 5. Then page is open at below link Add your connection string into your application code
+6. Usename and Password add in link 
    
 ## Starting the App 
 
